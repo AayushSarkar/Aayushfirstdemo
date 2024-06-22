@@ -1,4 +1,4 @@
 # Aayushfirstdemo
 This is my first Git Repository.
 <br>
-Author - Aayush Sarkar 
+Author - Aayush (Apna College)
